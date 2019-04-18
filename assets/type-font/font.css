@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'OakesGrotesk-Bold';
+	src: url('oakes-grotesk-bold.eot');
+	src: url('oakes-grotesk-bold.eot?#iefix') format('embedded-opentype'),
+             url('oakes-grotesk-bold.woff2') format('woff2'),
+	     url('oakes-grotesk-bold.woff') format('woff'),
+	     url('oakes-grotesk-bold.ttf') format('truetype'),
+	     url('oakes-grotesk-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OakesGrotesk-Semi-Bold';
+	src: url('oakes-grotesk-semi-bold.eot');
+	src: url('oakes-grotesk-semi-bold.eot?#iefix') format('embedded-opentype'),
+             url('oakes-grotesk-semi-bold.woff2') format('woff2'),
+	     url('oakes-grotesk-semi-bold.woff') format('woff'),
+	     url('oakes-grotesk-semi-bold.ttf') format('truetype'),
+	     url('oakes-grotesk-semi-bold.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OakesGrotesk-Light';
+	src: url('oakes-grotesk-light.eot');
+	src: url('oakes-grotesk-light.eot?#iefix') format('embedded-opentype'),
+             url('oakes-grotesk-light.woff2') format('woff2'),
+	     url('oakes-grotesk-light.woff') format('woff'),
+	     url('oakes-grotesk-light.ttf') format('truetype'),
+	     url('oakes-grotesk-light.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'OakesGrotesk-Regular';
+	src: url('oakes-grotesk-regular.eot');
+	src: url('oakes-grotesk-regular.eot?#iefix') format('embedded-opentype'),
+             url('oakes-grotesk-regular.woff2') format('woff2'),
+	     url('oakes-grotesk-regular.woff') format('woff'),
+	     url('oakes-grotesk-regular.ttf') format('truetype'),
+	     url('oakes-grotesk-regular.svg#youworkforthem') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
